@@ -1,0 +1,50 @@
+_repo: A-Journal-of-the-First-Voyage-of-Vasco-da-Gama-1497-1499_46440
+_version: 0.1.0
+alternative_title: Roteiro da viagem de Vasco da Gama. English
+contributor:
+  dubious_authors:
+  - agent_name: Velho, Alvaro
+    aliases:
+    - Barreiro, Alvaro Velho do
+    - Do Barreiro, Alvaro Velho
+    gutenberg_agent_id: '46518'
+    url: http://www.gutenberg.org/2009/agents/46518
+  - agent_name: Sá, João de, active 15th century-16th century
+    aliases:
+    - Sa, Joao de
+    - De Sá, João
+    gutenberg_agent_id: '45728'
+    url: http://www.gutenberg.org/2009/agents/45728
+  translator:
+    agent_name: Ravenstein, Ernst Georg
+    aliases:
+    - Ravenstein, E. G. (Ernst Georg)
+    - Ravenstein, Ernst Georg
+    - Ravenstein, Ernest George
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '41089'
+    url: http://www.gutenberg.org/2009/agents/41089
+covers:
+- cover_type: archival
+  image_path: 46440-h/images/cover.jpg
+description: Translation of Roteiro da viagem de Vasco da Gama, believed by some authorities
+  to be the work of Alvaro Velho. Editor favors João de Sá as author, rather than
+  Velho.
+gutenberg_issued: '2014-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46440'
+  lccn: '63024820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Africa -- Description and travel'
+- !lcc 'G'
+- !lcsh 'India -- Description and travel'
+- !lcsh 'Gama, Vasco da, 1469-1524'
+title: A Journal of the First Voyage of  Vasco da Gama 1497-1499
+url: http://www.gutenberg.org/ebooks/46440
