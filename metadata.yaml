@@ -31,6 +31,8 @@ covers:
 description: Translation of Roteiro da viagem de Vasco da Gama, believed by some authorities
   to be the work of Alvaro Velho. Editor favors João de Sá as author, rather than
   Velho.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46440#A-Journal-of-the-First-Voyage-of-Vasco-da-Gama-1497-1499
 gutenberg_issued: '2014-07-29'
 gutenberg_type: Text
 identifiers:
